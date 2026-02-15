@@ -5,6 +5,7 @@
 // ========================================
 // Dynamic Role Cycling
 // ========================================
+import myImage from './assets/profile.png.jpeg';
 
 const roles = [
     'Cybersecurity Engineer',
@@ -552,3 +553,4 @@ interactiveElements.forEach(element => {
 });
 
 console.log('%c✅ Portfolio initialized successfully!', 'color: #4ADE80; font-weight: bold;');
+
